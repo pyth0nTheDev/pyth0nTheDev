@@ -1,6 +1,6 @@
 ## Hey i'm pyth0nTheDev! 👋
 
-- 🔭 I’m currently working on an interpreted langauge with all the power but without the hassle of java
+- 🔭 I’m currently working on a kotlin based app
 - 💬 I am a masters student based in the UK
 - 📫 You can reach me on my discord: pythonblr
 - ⚡ I specialise in cyber security using my pen-testing knowledge to develop patches.
