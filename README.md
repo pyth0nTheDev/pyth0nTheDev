@@ -1,14 +1,14 @@
 ## Hey i'm pyth0nTheDev! 👋
 
 - 🔭 I’m currently working on a kotlin based app
-- 💬 I am a masters student based in the UK
+- 💬 I am a bachelor's student based in the UK
 - 📫 You can reach me on my discord: pythonblr
 - ⚡ I specialise in cyber security using my pen-testing knowledge to develop patches.
 - 🧠 Matrix challenge winner 2019
 
   
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pythonthedev) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pythonthedev)  🦗🦗
 
 
 # 💻 Tech Stack:
